@@ -118,10 +118,10 @@ function LoginPage({user, theme, setTheme}) {
         <div className="panel left-panel">
           <div className="content">
             <h3 className='loginh3'>New here?</h3>
-            <p className='loginp'>
+            {/* <p className='loginp'>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis,
               ex ratione. Aliqui!
-            </p>
+            </p> */}
             <button className="btn transparent" onClick={handleSignUpClick}>
               Sign up
               </button>
@@ -132,8 +132,7 @@ function LoginPage({user, theme, setTheme}) {
           <div className="content">
             <h3 className='loginh3'>One of us ?</h3>
             <p className='loginp'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-              laboriosam ad deleniti.
+              Start by Logging in!
             </p>
             <button onClick={handleSignInClick} className="btn transparent" id="sign-in-btn">
               Sign in

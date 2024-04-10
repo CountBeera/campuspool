@@ -10,7 +10,7 @@ const skillsData = [
       <FaCameraRetro className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Create your ride easily and efficiently",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,7 @@ const skillsData = [
       <GiNotebook className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "It's easy to access and use from anywhere and anytime",
     aosDelay: "500",
   },
   {
@@ -28,7 +28,7 @@ const skillsData = [
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Talk to the fellow riders before you confirm a ride with them",
     aosDelay: "1000",
   },
 ];

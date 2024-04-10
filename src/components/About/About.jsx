@@ -22,12 +22,10 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+              At Campus Pool, we’re passionate about creating a sustainable and connected campus community. Our mission is simple: to bridge the transportation gap for college students. Whether you’re a day scholar navigating public transit or a hosteller looking for a ride to the airport, we’ve got you covered.
               </p>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-                tempora.
+                Providing an opportunity for all commuters to commute freely.
               </p>
               <button data-aos="fade-up" className="button-outline">
                 Get Started
