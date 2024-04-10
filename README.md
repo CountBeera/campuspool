@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# Campus Pool: Connecting Students for Sustainable Campus Transportation
+Commuting can be a significant challenge for college students, whether they are day scholars or hostellers. Existing transportation options like personal vehicles, public transit, or ride-hailing services often come with inconveniences, high costs, or environmental concerns. **That’s where Campus Pool comes in.**
+
+## Project Overview
+Campus Pool aims to revolutionize campus transportation by connecting students who need rides with those offering them. Our app provides a reliable alternative for day scholars who miss buses or prefer traveling together. Hostellers can easily coordinate rides for outings, airport transfers, or railway station drop-offs. By encouraging ride-sharing, our app promotes a sense of community, facilitates social connections, and reduces the campus’s carbon footprint.
+
+## Key Features
+**Ride Creation**: Students can create ride requests, specifying their origin, destination, and preferred time.
+**Ride Joining**: Other students can join existing rides based on their schedules and preferences.
+**In-App Chat**: Communicate with fellow riders to coordinate details or ask questions.
+**Bill Splitting**: Easily divide ride costs among participants.
+
+## How It Works
+**User Profiles**: Students create profiles with their details, including their status as day scholars or hostellers.
+**Ride Requests**: Day scholars can request rides, and hostellers can offer rides.
+**Matching Algorithms**: Our robust algorithms match riders and drivers based on schedules, locations, and preferences.
+**Convenient Communication**: In-app chat allows users to discuss ride details and coordinate effectively.
+**Safety First**: We prioritize safety by verifying user profiles and providing essential safety guidelines.
+
+## Benefits
+### For Day Scholars:
+Reliable alternative when public transit or shuttle services are unavailable or inconvenient.
+Opportunity to travel with fellow students and build connections.
+### For Hostellers:
+Easily find rides for weekend outings, airport transfers, or railway station drop-offs.
+Contribute to a greener campus by sharing rides.
+
+
+### Join the Community
+Download Campus Pool today and be part of a sustainable transportation solution for your college community. Let’s ride together!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
